@@ -1,7 +1,5 @@
 # Financial-Insights-Unleashed-Navigate-Your-Data-Journey
 
-To create a Power BI project using a financial dataset, here's a summary of what your project could include, following the requirements you provided:
-
 ### Project Summary: Financial Dataset Analysis in Power BI
 
 **Objective:**
